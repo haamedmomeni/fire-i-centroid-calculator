@@ -17,15 +17,15 @@ This code was originally developed to analyze the motion of hotspots as captured
 
 1. Clone the repository to your local machine:
 
-'git clone https://github.com/haamedmomeni/fire-i-centroid-calculator'
+` git clone https://github.com/haamedmomeni/fire-i-centroid-calculator`
 
 2. Navigate to the directory:
 
-'cd fire-i-centroid-calculator'
+`cd fire-i-centroid-calculator`
 
 3. Install the required Python libraries and dependencies:
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 
 ## Usage
@@ -34,7 +34,7 @@ This code was originally developed to analyze the motion of hotspots as captured
 
 2. Run the script:
 
-'python main.py'
+`python main.py`
 
 3. The script processes the images and generates a CSV file named `results.csv` with the analysis results.
 
